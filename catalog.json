@@ -1,0 +1,3992 @@
+{
+ "version": 2026102001,
+ "updatedAt": "2026-10-19T23:38:09Z",
+ "services": [
+  {
+   "key": "yandex-plus",
+   "name": "Яндекс Плюс",
+   "aliases": [
+    "плюс",
+    "yandex plus",
+    "яндекс"
+   ],
+   "category": "Развлечения",
+   "color": "FC3F1D",
+   "monogram": "Я+",
+   "cancelURL": "https://plus.yandex.ru/my",
+   "kind": "bundle",
+   "channel": "site",
+   "includes": [
+    "kinopoisk",
+    "yandex-music",
+    "bookmate",
+    "yandex-eda"
+   ],
+   "plans": [
+    {
+     "name": "Плюс",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Плюс Мульти",
+     "price": "449",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Плюс с Амедиатекой",
+     "price": "799",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Плюс Мульти, год",
+     "price": "3990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kinopoisk",
+   "name": "Кинопоиск",
+   "aliases": [
+    "кп",
+    "kinopoisk",
+    "кинопоиск hd"
+   ],
+   "category": "Развлечения",
+   "color": "FF6600",
+   "monogram": "КП",
+   "cancelURL": "https://hd.kinopoisk.ru/",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Кинопоиск",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Кинопоиск + Амедиатека",
+     "price": "799",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "okko",
+   "name": "Okko",
+   "aliases": [
+    "окко"
+   ],
+   "category": "Развлечения",
+   "color": "5A2DD4",
+   "monogram": "Ok",
+   "cancelURL": "https://okko.tv/settings",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Оптимум",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Премиум",
+     "price": "599",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Оптимум, год",
+     "price": "2990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "ivi",
+   "name": "Иви",
+   "aliases": [
+    "ivi",
+    "иви"
+   ],
+   "category": "Развлечения",
+   "color": "EA003D",
+   "monogram": "ив",
+   "cancelURL": "https://www.ivi.ru/profile/subscriptions",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Иви",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Иви, 3 месяца",
+     "price": "1099",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 3
+    },
+    {
+     "name": "Иви, год",
+     "price": "2990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "wink",
+   "name": "Wink",
+   "aliases": [
+    "винк",
+    "ростелеком тв"
+   ],
+   "category": "Развлечения",
+   "color": "FF4F12",
+   "monogram": "W",
+   "cancelURL": "https://wink.ru/",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Wink Трансформер",
+     "price": "349",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Wink Премиум",
+     "price": "699",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "start",
+   "name": "Start",
+   "aliases": [
+    "старт"
+   ],
+   "category": "Развлечения",
+   "color": "F5A623",
+   "monogram": "St",
+   "cancelURL": "https://start.ru/account",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Start",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Start, год",
+     "price": "2990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "vk-music",
+   "name": "VK Музыка",
+   "aliases": [
+    "вк музыка",
+    "vk music",
+    "boom",
+    "бум"
+   ],
+   "category": "Музыка",
+   "color": "0077FF",
+   "monogram": "VK",
+   "cancelURL": "https://vk.com/settings?act=payments",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "VK Музыка",
+     "price": "249",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "VK Музыка для двоих",
+     "price": "349",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "VK Музыка, семейная",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "sberprime",
+   "name": "СберПрайм",
+   "aliases": [
+    "сбер прайм",
+    "sberprime",
+    "сбер"
+   ],
+   "category": "Финансы",
+   "color": "21A038",
+   "monogram": "СП",
+   "cancelURL": "https://sberprime.sber.ru/",
+   "kind": "bundle",
+   "channel": "bank",
+   "includes": [
+    "okko",
+    "zvuk",
+    "sber-disk",
+    "kuper",
+    "sberzdorovie"
+   ],
+   "plans": [
+    {
+     "name": "СберПрайм",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "СберПрайм+",
+     "price": "599",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "СберПрайм, год",
+     "price": "2990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "tbank-pro",
+   "name": "Т-Банк Pro",
+   "aliases": [
+    "тинькофф про",
+    "tinkoff pro",
+    "т банк",
+    "тинькофф"
+   ],
+   "category": "Финансы",
+   "color": "FFDD2D",
+   "monogram": "Т",
+   "cancelURL": "https://www.tbank.ru/pro/",
+   "kind": "bundle",
+   "channel": "bank",
+   "includes": [
+    "tbank-mobile"
+   ],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Premium",
+     "price": "1990",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "mts-premium",
+   "name": "МТС Premium",
+   "aliases": [
+    "мтс премиум",
+    "kion",
+    "кион"
+   ],
+   "category": "Связь и интернет",
+   "color": "E30611",
+   "monogram": "МТС",
+   "cancelURL": "https://premium.mts.ru/",
+   "kind": "bundle",
+   "channel": "operator",
+   "includes": [
+    "kion"
+   ],
+   "plans": [
+    {
+     "name": "МТС Premium",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "telegram-premium",
+   "name": "Telegram Premium",
+   "aliases": [
+    "телеграм премиум",
+    "тг премиум",
+    "telegram"
+   ],
+   "category": "Связь и интернет",
+   "color": "2AABEE",
+   "monogram": "TG",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Год",
+     "price": "2490",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "icloud",
+   "name": "iCloud+",
+   "aliases": [
+    "айклауд",
+    "icloud",
+    "облако apple"
+   ],
+   "category": "Облако",
+   "color": "3693F3",
+   "monogram": "iC",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "cloud",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "50 ГБ",
+     "price": "149",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "200 ГБ",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "2 ТБ",
+     "price": "899",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "6 ТБ",
+     "price": "2990",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "litres",
+   "name": "Литрес",
+   "aliases": [
+    "litres",
+    "литрес абонемент"
+   ],
+   "category": "Обучение",
+   "color": "FF5C00",
+   "monogram": "Л",
+   "cancelURL": "https://www.litres.ru/me/subscription/",
+   "kind": "books",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Абонемент",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Абонемент, год",
+     "price": "2990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "chatgpt",
+   "name": "ChatGPT Plus",
+   "aliases": [
+    "chatgpt",
+    "openai",
+    "чатгпт",
+    "гпт",
+    "gpt"
+   ],
+   "category": "Работа и софт",
+   "color": "10A37F",
+   "monogram": "GPT",
+   "cancelURL": "https://chatgpt.com/#settings/Subscription",
+   "kind": "ai",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Plus",
+     "price": "20",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Pro",
+     "price": "200",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "spotify",
+   "name": "Spotify",
+   "aliases": [
+    "спотифай"
+   ],
+   "category": "Музыка",
+   "color": "1DB954",
+   "monogram": "Sp",
+   "cancelURL": "https://www.spotify.com/account/subscription/",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Individual",
+     "price": "11.99",
+     "currency": "EUR",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Duo",
+     "price": "16.99",
+     "currency": "EUR",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Family",
+     "price": "19.99",
+     "currency": "EUR",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "youtube-premium",
+   "name": "YouTube Premium",
+   "aliases": [
+    "ютуб премиум",
+    "youtube"
+   ],
+   "category": "Развлечения",
+   "color": "FF0033",
+   "monogram": "YT",
+   "cancelURL": "https://www.youtube.com/paid_memberships",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Individual",
+     "price": "13.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Family",
+     "price": "22.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "premier",
+   "name": "Premier",
+   "aliases": [
+    "премьер",
+    "тнт премьер"
+   ],
+   "category": "Развлечения",
+   "color": "FDB913",
+   "monogram": "Pr",
+   "cancelURL": "https://premier.one/profile",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premier",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "amediateka",
+   "name": "Амедиатека",
+   "aliases": [
+    "amediateka",
+    "амедиа"
+   ],
+   "category": "Развлечения",
+   "color": "1A1A1A",
+   "monogram": "А",
+   "cancelURL": "https://www.amediateka.ru/profile",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Амедиатека",
+     "price": "599",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kion",
+   "name": "KION",
+   "aliases": [
+    "кион"
+   ],
+   "category": "Развлечения",
+   "color": "7B2CFF",
+   "monogram": "KI",
+   "cancelURL": "https://kion.ru/",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "KION",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "more-tv",
+   "name": "more.tv",
+   "aliases": [
+    "мор тв",
+    "моретв"
+   ],
+   "category": "Развлечения",
+   "color": "FF2E63",
+   "monogram": "mo",
+   "cancelURL": "https://wink.ru/",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "more.tv",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "netflix",
+   "name": "Netflix",
+   "aliases": [
+    "нетфликс"
+   ],
+   "category": "Развлечения",
+   "color": "E50914",
+   "monogram": "N",
+   "cancelURL": "https://www.netflix.com/cancelplan",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Standard with ads",
+     "price": "7.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Standard",
+     "price": "17.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Premium",
+     "price": "24.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "disney-plus",
+   "name": "Disney+",
+   "aliases": [
+    "дисней"
+   ],
+   "category": "Развлечения",
+   "color": "113CCF",
+   "monogram": "D+",
+   "cancelURL": "https://www.disneyplus.com/account/subscription",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Disney+",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "hbo-max",
+   "name": "Max",
+   "aliases": [
+    "hbo",
+    "хбо",
+    "hbo max"
+   ],
+   "category": "Развлечения",
+   "color": "002BE7",
+   "monogram": "M",
+   "cancelURL": "https://www.max.com/account",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Basic",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Standard",
+     "price": "16.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "apple-tv",
+   "name": "Apple TV+",
+   "aliases": [
+    "эпл тв",
+    "apple tv"
+   ],
+   "category": "Развлечения",
+   "color": "1C1C1E",
+   "monogram": "tv",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "video",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Apple TV+",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "prime-video",
+   "name": "Prime Video",
+   "aliases": [
+    "амазон прайм",
+    "amazon prime"
+   ],
+   "category": "Развлечения",
+   "color": "00A8E1",
+   "monogram": "PV",
+   "cancelURL": "https://www.amazon.com/mc",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Prime",
+     "price": "14.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "crunchyroll",
+   "name": "Crunchyroll",
+   "aliases": [
+    "кранчиролл",
+    "аниме"
+   ],
+   "category": "Развлечения",
+   "color": "F47521",
+   "monogram": "Cr",
+   "cancelURL": "https://www.crunchyroll.com/account/membership",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Fan",
+     "price": "7.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "twitch-turbo",
+   "name": "Twitch Turbo",
+   "aliases": [
+    "твич"
+   ],
+   "category": "Развлечения",
+   "color": "9146FF",
+   "monogram": "Tw",
+   "cancelURL": "https://www.twitch.tv/subscriptions",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Turbo",
+     "price": "11.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "rutube",
+   "name": "RUTUBE",
+   "aliases": [
+    "рутуб"
+   ],
+   "category": "Развлечения",
+   "color": "100943",
+   "monogram": "RT",
+   "cancelURL": "",
+   "kind": "video",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "match-tv",
+   "name": "Матч Премьер",
+   "aliases": [
+    "матч тв",
+    "матч премьер",
+    "футбол"
+   ],
+   "category": "Развлечения",
+   "color": "E4002B",
+   "monogram": "МП",
+   "cancelURL": "https://matchpremier.ru/",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Матч Премьер",
+     "price": "380",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "okko-sport",
+   "name": "Okko Спорт",
+   "aliases": [
+    "окко спорт",
+    "апл"
+   ],
+   "category": "Развлечения",
+   "color": "5A2DD4",
+   "monogram": "OS",
+   "cancelURL": "https://okko.tv/settings",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Спорт",
+     "price": "599",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "yandex-music",
+   "name": "Яндекс Музыка",
+   "aliases": [
+    "яндекс музыка",
+    "yandex music"
+   ],
+   "category": "Музыка",
+   "color": "FFCC00",
+   "monogram": "ЯМ",
+   "cancelURL": "https://plus.yandex.ru/my",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Музыка",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "zvuk",
+   "name": "Звук",
+   "aliases": [
+    "звук",
+    "сберзвук",
+    "zvuk"
+   ],
+   "category": "Музыка",
+   "color": "FF2D55",
+   "monogram": "Зв",
+   "cancelURL": "https://zvuk.com/profile",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Звук",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "apple-music",
+   "name": "Apple Music",
+   "aliases": [
+    "эпл мьюзик",
+    "apple music"
+   ],
+   "category": "Музыка",
+   "color": "FA243C",
+   "monogram": "♪",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "music",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Индивидуальная",
+     "price": "169",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Семейная",
+     "price": "269",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Студенческая",
+     "price": "75",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "deezer",
+   "name": "Deezer",
+   "aliases": [
+    "дизер"
+   ],
+   "category": "Музыка",
+   "color": "A238FF",
+   "monogram": "Dz",
+   "cancelURL": "https://www.deezer.com/account/subscription",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premium",
+     "price": "11.99",
+     "currency": "EUR",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "tidal",
+   "name": "TIDAL",
+   "aliases": [
+    "тайдал"
+   ],
+   "category": "Музыка",
+   "color": "000000",
+   "monogram": "Ti",
+   "cancelURL": "https://account.tidal.com/subscription",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Individual",
+     "price": "10.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "soundcloud",
+   "name": "SoundCloud Go+",
+   "aliases": [
+    "саундклауд"
+   ],
+   "category": "Музыка",
+   "color": "FF5500",
+   "monogram": "SC",
+   "cancelURL": "https://soundcloud.com/settings/subscriptions",
+   "kind": "music",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Go+",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "bookmate",
+   "name": "Букмейт",
+   "aliases": [
+    "bookmate",
+    "букмейт"
+   ],
+   "category": "Обучение",
+   "color": "FF7A00",
+   "monogram": "Бм",
+   "cancelURL": "https://plus.yandex.ru/my",
+   "kind": "books",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Букмейт",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "storytel",
+   "name": "Storytel",
+   "aliases": [
+    "сторител"
+   ],
+   "category": "Обучение",
+   "color": "FF5C28",
+   "monogram": "St",
+   "cancelURL": "https://www.storytel.com/account",
+   "kind": "books",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Storytel",
+     "price": "549",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "mybook",
+   "name": "MyBook",
+   "aliases": [
+    "майбук"
+   ],
+   "category": "Обучение",
+   "color": "F15A24",
+   "monogram": "MB",
+   "cancelURL": "https://mybook.ru/account/",
+   "kind": "books",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Премиум",
+     "price": "449",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "audible",
+   "name": "Audible",
+   "aliases": [
+    "аудибл"
+   ],
+   "category": "Обучение",
+   "color": "F8991C",
+   "monogram": "Au",
+   "cancelURL": "https://www.audible.com/account",
+   "kind": "books",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premium Plus",
+     "price": "14.95",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kindle-unlimited",
+   "name": "Kindle Unlimited",
+   "aliases": [
+    "киндл"
+   ],
+   "category": "Обучение",
+   "color": "232F3E",
+   "monogram": "KU",
+   "cancelURL": "https://www.amazon.com/kindle-dbs/ku/ku-central",
+   "kind": "books",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Unlimited",
+     "price": "11.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "alfa-smart",
+   "name": "Альфа Смарт",
+   "aliases": [
+    "альфа банк",
+    "альфа смарт",
+    "alfa"
+   ],
+   "category": "Финансы",
+   "color": "EF3124",
+   "monogram": "α",
+   "cancelURL": "",
+   "kind": "bundle",
+   "channel": "bank",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Альфа Смарт",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "vtb-plus",
+   "name": "ВТБ Плюс",
+   "aliases": [
+    "втб"
+   ],
+   "category": "Финансы",
+   "color": "0A2896",
+   "monogram": "ВТБ",
+   "cancelURL": "",
+   "kind": "bundle",
+   "channel": "bank",
+   "includes": [],
+   "plans": [
+    {
+     "name": "ВТБ Плюс",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "gazprom-bonus",
+   "name": "Газпром Бонус",
+   "aliases": [
+    "газпромбанк",
+    "газпром бонус"
+   ],
+   "category": "Финансы",
+   "color": "0079C2",
+   "monogram": "ГБ",
+   "cancelURL": "https://bonus.gazprombank.ru/",
+   "kind": "bundle",
+   "channel": "bank",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Бонус",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "ozon-premium",
+   "name": "Ozon Premium",
+   "aliases": [
+    "озон премиум",
+    "озон"
+   ],
+   "category": "Другое",
+   "color": "005BFF",
+   "monogram": "Oz",
+   "cancelURL": "https://www.ozon.ru/my/premium",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premium",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "wb-club",
+   "name": "WB Клуб",
+   "aliases": [
+    "вайлдберриз",
+    "wildberries",
+    "вб клуб"
+   ],
+   "category": "Другое",
+   "color": "CB11AB",
+   "monogram": "WB",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "WB Клуб",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "samokat-plus",
+   "name": "Самокат Плюс",
+   "aliases": [
+    "самокат"
+   ],
+   "category": "Другое",
+   "color": "FF335F",
+   "monogram": "Сам",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Плюс",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kuper",
+   "name": "Купер",
+   "aliases": [
+    "сбермаркет",
+    "kuper"
+   ],
+   "category": "Другое",
+   "color": "00BC6F",
+   "monogram": "Ку",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "yandex-eda",
+   "name": "Яндекс Еда Плюс",
+   "aliases": [
+    "яндекс еда",
+    "доставка"
+   ],
+   "category": "Другое",
+   "color": "FFCC00",
+   "monogram": "ЯЕ",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "avito-pro",
+   "name": "Авито",
+   "aliases": [
+    "avito",
+    "авито"
+   ],
+   "category": "Другое",
+   "color": "00AAFF",
+   "monogram": "Av",
+   "cancelURL": "https://www.avito.ru/profile",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "990",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "pyaterochka",
+   "name": "Пятёрочка Пакет",
+   "aliases": [
+    "пятерочка",
+    "x5 пакет",
+    "пакет"
+   ],
+   "category": "Другое",
+   "color": "E31E24",
+   "monogram": "5",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Пакет",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "magnit",
+   "name": "Магнит Плюс",
+   "aliases": [
+    "магнит"
+   ],
+   "category": "Другое",
+   "color": "E30613",
+   "monogram": "Мг",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "vkusvill",
+   "name": "ВкусВилл",
+   "aliases": [
+    "вкусвилл"
+   ],
+   "category": "Другое",
+   "color": "48A635",
+   "monogram": "ВВ",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "199",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "lamoda",
+   "name": "Lamoda Club",
+   "aliases": [
+    "ламода"
+   ],
+   "category": "Другое",
+   "color": "000000",
+   "monogram": "La",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Club",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "mts",
+   "name": "МТС",
+   "aliases": [
+    "мтс",
+    "mts",
+    "мобильная связь"
+   ],
+   "category": "Связь и интернет",
+   "color": "E30611",
+   "monogram": "МТС",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "650",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "beeline",
+   "name": "Билайн",
+   "aliases": [
+    "beeline",
+    "билайн"
+   ],
+   "category": "Связь и интернет",
+   "color": "FFC800",
+   "monogram": "Би",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "600",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "megafon",
+   "name": "МегаФон",
+   "aliases": [
+    "megafon",
+    "мегафон"
+   ],
+   "category": "Связь и интернет",
+   "color": "00B956",
+   "monogram": "МФ",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "600",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "t2",
+   "name": "Т2",
+   "aliases": [
+    "теле2",
+    "tele2",
+    "t2"
+   ],
+   "category": "Связь и интернет",
+   "color": "1F2229",
+   "monogram": "T2",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "500",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "yota",
+   "name": "Yota",
+   "aliases": [
+    "йота"
+   ],
+   "category": "Связь и интернет",
+   "color": "00AEEF",
+   "monogram": "Yo",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "450",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "tbank-mobile",
+   "name": "Т-Мобайл",
+   "aliases": [
+    "тинькофф мобайл",
+    "т мобайл"
+   ],
+   "category": "Связь и интернет",
+   "color": "FFDD2D",
+   "monogram": "ТМ",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "400",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "sbermobile",
+   "name": "СберМобайл",
+   "aliases": [
+    "сбермобайл"
+   ],
+   "category": "Связь и интернет",
+   "color": "21A038",
+   "monogram": "СМ",
+   "cancelURL": "",
+   "kind": "mobile",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Тариф",
+     "price": "400",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "rostelecom",
+   "name": "Ростелеком",
+   "aliases": [
+    "ростелеком",
+    "домашний интернет",
+    "rt"
+   ],
+   "category": "Связь и интернет",
+   "color": "7700FF",
+   "monogram": "РТ",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Интернет",
+     "price": "700",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "domru",
+   "name": "Дом.ру",
+   "aliases": [
+    "дом ру",
+    "эр телеком"
+   ],
+   "category": "Связь и интернет",
+   "color": "E2001A",
+   "monogram": "ДР",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Интернет",
+     "price": "650",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "mgts",
+   "name": "МГТС",
+   "aliases": [
+    "мгтс"
+   ],
+   "category": "Связь и интернет",
+   "color": "E30611",
+   "monogram": "МГ",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Интернет",
+     "price": "750",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "onlime",
+   "name": "Онлайм",
+   "aliases": [
+    "onlime"
+   ],
+   "category": "Связь и интернет",
+   "color": "8DC63F",
+   "monogram": "On",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "operator",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Интернет",
+     "price": "600",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "vk-combo",
+   "name": "VK Combo",
+   "aliases": [
+    "вк комбо",
+    "vk combo"
+   ],
+   "category": "Связь и интернет",
+   "color": "0077FF",
+   "monogram": "VC",
+   "cancelURL": "https://vk.com/settings?act=payments",
+   "kind": "bundle",
+   "channel": "site",
+   "includes": [
+    "vk-music"
+   ],
+   "plans": [
+    {
+     "name": "Combo",
+     "price": "249",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "discord-nitro",
+   "name": "Discord Nitro",
+   "aliases": [
+    "дискорд"
+   ],
+   "category": "Связь и интернет",
+   "color": "5865F2",
+   "monogram": "Dc",
+   "cancelURL": "https://discord.com/settings/subscriptions",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Nitro Basic",
+     "price": "2.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Nitro",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "x-premium",
+   "name": "X Premium",
+   "aliases": [
+    "твиттер",
+    "twitter",
+    "x"
+   ],
+   "category": "Связь и интернет",
+   "color": "000000",
+   "monogram": "X",
+   "cancelURL": "https://x.com/settings/manage_subscriptions",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premium",
+     "price": "8",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "linkedin-premium",
+   "name": "LinkedIn Premium",
+   "aliases": [
+    "линкедин"
+   ],
+   "category": "Работа и софт",
+   "color": "0A66C2",
+   "monogram": "in",
+   "cancelURL": "https://www.linkedin.com/premium/manage/",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Career",
+     "price": "29.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "vpn-generic",
+   "name": "VPN",
+   "aliases": [
+    "впн",
+    "vpn"
+   ],
+   "category": "Связь и интернет",
+   "color": "3A3A3A",
+   "monogram": "VPN",
+   "cancelURL": "",
+   "kind": "vpn",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "300",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Год",
+     "price": "2500",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "proton",
+   "name": "Proton",
+   "aliases": [
+    "протон",
+    "proton vpn",
+    "proton mail"
+   ],
+   "category": "Связь и интернет",
+   "color": "6D4AFF",
+   "monogram": "Pt",
+   "cancelURL": "https://account.proton.me/dashboard",
+   "kind": "vpn",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "VPN Plus",
+     "price": "9.99",
+     "currency": "EUR",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Unlimited",
+     "price": "12.99",
+     "currency": "EUR",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "nordvpn",
+   "name": "NordVPN",
+   "aliases": [
+    "норд впн"
+   ],
+   "category": "Связь и интернет",
+   "color": "4687FF",
+   "monogram": "Nd",
+   "cancelURL": "https://my.nordaccount.com/",
+   "kind": "vpn",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "59.88",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "expressvpn",
+   "name": "ExpressVPN",
+   "aliases": [
+    "экспресс впн"
+   ],
+   "category": "Связь и интернет",
+   "color": "DA3940",
+   "monogram": "Ex",
+   "cancelURL": "",
+   "kind": "vpn",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "12.95",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "yandex-360",
+   "name": "Яндекс 360",
+   "aliases": [
+    "яндекс диск",
+    "яндекс 360",
+    "yandex disk"
+   ],
+   "category": "Облако",
+   "color": "FC3F1D",
+   "monogram": "360",
+   "cancelURL": "https://360.yandex.ru/premium-plans/",
+   "kind": "cloud",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "100 ГБ",
+     "price": "99",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "1 ТБ",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "3 ТБ",
+     "price": "649",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "google-one",
+   "name": "Google One",
+   "aliases": [
+    "гугл ван",
+    "google drive",
+    "гугл диск"
+   ],
+   "category": "Облако",
+   "color": "4285F4",
+   "monogram": "G1",
+   "cancelURL": "https://one.google.com/storage",
+   "kind": "cloud",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "100 ГБ",
+     "price": "1.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "2 ТБ",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "AI Pro",
+     "price": "19.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "dropbox",
+   "name": "Dropbox",
+   "aliases": [
+    "дропбокс"
+   ],
+   "category": "Облако",
+   "color": "0061FF",
+   "monogram": "Db",
+   "cancelURL": "https://www.dropbox.com/account/plan",
+   "kind": "cloud",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Plus",
+     "price": "11.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "mail-cloud",
+   "name": "Облако Mail",
+   "aliases": [
+    "облако mail",
+    "mail ru облако",
+    "майл облако"
+   ],
+   "category": "Облако",
+   "color": "005FF9",
+   "monogram": "@",
+   "cancelURL": "https://cloud.mail.ru/subscriptions",
+   "kind": "cloud",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "128 ГБ",
+     "price": "149",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "1 ТБ",
+     "price": "699",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "onedrive",
+   "name": "OneDrive",
+   "aliases": [
+    "ван драйв"
+   ],
+   "category": "Облако",
+   "color": "0078D4",
+   "monogram": "OD",
+   "cancelURL": "https://account.microsoft.com/services",
+   "kind": "cloud",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "100 ГБ",
+     "price": "1.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "apple-one",
+   "name": "Apple One",
+   "aliases": [
+    "эпл ван"
+   ],
+   "category": "Облако",
+   "color": "1C1C1E",
+   "monogram": "A1",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [
+    "icloud",
+    "apple-music",
+    "apple-tv",
+    "apple-arcade",
+    "apple-fitness"
+   ],
+   "plans": [
+    {
+     "name": "Индивидуальный",
+     "price": "19.95",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Семейный",
+     "price": "25.95",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "sber-disk",
+   "name": "СберДиск",
+   "aliases": [
+    "сбер диск"
+   ],
+   "category": "Облако",
+   "color": "21A038",
+   "monogram": "СД",
+   "cancelURL": "",
+   "kind": "cloud",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "99",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "backblaze",
+   "name": "Backblaze",
+   "aliases": [
+    "бэкблейз",
+    "бэкап"
+   ],
+   "category": "Облако",
+   "color": "E21E29",
+   "monogram": "Bb",
+   "cancelURL": "https://secure.backblaze.com/account_settings.htm",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Personal",
+     "price": "9",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "claude",
+   "name": "Claude Pro",
+   "aliases": [
+    "claude",
+    "клод",
+    "anthropic"
+   ],
+   "category": "Работа и софт",
+   "color": "D97757",
+   "monogram": "Cl",
+   "cancelURL": "https://claude.ai/settings/billing",
+   "kind": "ai",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "20",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Max",
+     "price": "100",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "gemini",
+   "name": "Gemini",
+   "aliases": [
+    "джемини",
+    "google ai"
+   ],
+   "category": "Работа и софт",
+   "color": "4285F4",
+   "monogram": "Gm",
+   "cancelURL": "https://one.google.com/storage",
+   "kind": "ai",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "AI Pro",
+     "price": "19.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "perplexity",
+   "name": "Perplexity Pro",
+   "aliases": [
+    "перплексити"
+   ],
+   "category": "Работа и софт",
+   "color": "20808D",
+   "monogram": "Px",
+   "cancelURL": "https://www.perplexity.ai/settings/account",
+   "kind": "ai",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "20",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "midjourney",
+   "name": "Midjourney",
+   "aliases": [
+    "миджорни",
+    "mj"
+   ],
+   "category": "Работа и софт",
+   "color": "000000",
+   "monogram": "MJ",
+   "cancelURL": "https://www.midjourney.com/account",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Basic",
+     "price": "10",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Standard",
+     "price": "30",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Pro",
+     "price": "60",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "github-copilot",
+   "name": "GitHub Copilot",
+   "aliases": [
+    "копилот",
+    "github"
+   ],
+   "category": "Работа и софт",
+   "color": "24292F",
+   "monogram": "GH",
+   "cancelURL": "https://github.com/settings/copilot",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "10",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "cursor",
+   "name": "Cursor",
+   "aliases": [
+    "курсор"
+   ],
+   "category": "Работа и софт",
+   "color": "000000",
+   "monogram": "Cu",
+   "cancelURL": "https://cursor.com/settings",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "20",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "gigachat",
+   "name": "GigaChat",
+   "aliases": [
+    "гигачат"
+   ],
+   "category": "Работа и софт",
+   "color": "21A038",
+   "monogram": "Gg",
+   "cancelURL": "",
+   "kind": "ai",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "499",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "yandex-alice-pro",
+   "name": "Алиса Про",
+   "aliases": [
+    "алиса",
+    "яндекс gpt",
+    "yandexgpt"
+   ],
+   "category": "Работа и софт",
+   "color": "8B5CF6",
+   "monogram": "Ал",
+   "cancelURL": "https://plus.yandex.ru/my",
+   "kind": "ai",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Про",
+     "price": "499",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "adobe-photo",
+   "name": "Adobe Photography",
+   "aliases": [
+    "адоб",
+    "фотошоп",
+    "лайтрум",
+    "photoshop",
+    "lightroom"
+   ],
+   "category": "Работа и софт",
+   "color": "DA1F26",
+   "monogram": "Ps",
+   "cancelURL": "https://account.adobe.com/plans",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Photography 20 ГБ",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Photography 1 ТБ",
+     "price": "19.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Photography, год",
+     "price": "119.88",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "adobe-cc",
+   "name": "Adobe Creative Cloud",
+   "aliases": [
+    "адоб",
+    "creative cloud",
+    "иллюстратор",
+    "премьер про"
+   ],
+   "category": "Работа и софт",
+   "color": "DA1F26",
+   "monogram": "Cc",
+   "cancelURL": "https://account.adobe.com/plans",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "All Apps",
+     "price": "59.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Single App",
+     "price": "22.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "figma",
+   "name": "Figma",
+   "aliases": [
+    "фигма"
+   ],
+   "category": "Работа и софт",
+   "color": "A259FF",
+   "monogram": "Fg",
+   "cancelURL": "https://www.figma.com/settings",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Professional",
+     "price": "16",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "notion",
+   "name": "Notion",
+   "aliases": [
+    "ноушн",
+    "ноушен"
+   ],
+   "category": "Работа и софт",
+   "color": "000000",
+   "monogram": "No",
+   "cancelURL": "https://www.notion.so/my-account",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Plus",
+     "price": "12",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Plus, год",
+     "price": "120",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "ms365",
+   "name": "Microsoft 365",
+   "aliases": [
+    "офис",
+    "office",
+    "ворд",
+    "эксель"
+   ],
+   "category": "Работа и софт",
+   "color": "D83B01",
+   "monogram": "365",
+   "cancelURL": "https://account.microsoft.com/services",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Personal",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Family, год",
+     "price": "129.99",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "jetbrains",
+   "name": "JetBrains",
+   "aliases": [
+    "джетбрейнс",
+    "intellij",
+    "pycharm"
+   ],
+   "category": "Работа и софт",
+   "color": "000000",
+   "monogram": "JB",
+   "cancelURL": "https://account.jetbrains.com/licenses",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "All Products, год",
+     "price": "289",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "canva",
+   "name": "Canva Pro",
+   "aliases": [
+    "канва"
+   ],
+   "category": "Работа и софт",
+   "color": "00C4CC",
+   "monogram": "Ca",
+   "cancelURL": "https://www.canva.com/settings/billing-and-plans",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "14.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "capcut",
+   "name": "CapCut Pro",
+   "aliases": [
+    "капкат"
+   ],
+   "category": "Работа и софт",
+   "color": "000000",
+   "monogram": "CC",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "1password",
+   "name": "1Password",
+   "aliases": [
+    "1пассворд",
+    "пароли"
+   ],
+   "category": "Работа и софт",
+   "color": "0572EC",
+   "monogram": "1P",
+   "cancelURL": "https://my.1password.com/profile",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Individual",
+     "price": "2.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "zoom",
+   "name": "Zoom",
+   "aliases": [
+    "зум"
+   ],
+   "category": "Работа и софт",
+   "color": "0B5CFF",
+   "monogram": "Zm",
+   "cancelURL": "https://zoom.us/billing",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "13.33",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "slack",
+   "name": "Slack",
+   "aliases": [
+    "слак"
+   ],
+   "category": "Работа и софт",
+   "color": "4A154B",
+   "monogram": "Sl",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "8.75",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "todoist",
+   "name": "Todoist",
+   "aliases": [
+    "тудуист"
+   ],
+   "category": "Работа и софт",
+   "color": "E44332",
+   "monogram": "Td",
+   "cancelURL": "https://app.todoist.com/app/settings/subscription",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "4",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "grammarly",
+   "name": "Grammarly",
+   "aliases": [
+    "грамарли"
+   ],
+   "category": "Работа и софт",
+   "color": "15C39A",
+   "monogram": "Gr",
+   "cancelURL": "https://account.grammarly.com/subscription",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Pro",
+     "price": "12",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "setapp",
+   "name": "Setapp",
+   "aliases": [
+    "сетапп"
+   ],
+   "category": "Работа и софт",
+   "color": "2C2C2C",
+   "monogram": "Se",
+   "cancelURL": "https://my.setapp.com/subscription",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Mac",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kontur",
+   "name": "Контур",
+   "aliases": [
+    "контур",
+    "эльба",
+    "бухгалтерия"
+   ],
+   "category": "Работа и софт",
+   "color": "E8442E",
+   "monogram": "Кт",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Эльба, год",
+     "price": "9900",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "moysklad",
+   "name": "МойСклад",
+   "aliases": [
+    "мой склад"
+   ],
+   "category": "Работа и софт",
+   "color": "1F9BDE",
+   "monogram": "МС",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Базовый",
+     "price": "1250",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "tilda",
+   "name": "Tilda",
+   "aliases": [
+    "тильда"
+   ],
+   "category": "Работа и софт",
+   "color": "FF8562",
+   "monogram": "Tl",
+   "cancelURL": "https://tilda.cc/identity/plan/",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Personal",
+     "price": "750",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Business",
+     "price": "1250",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "reg-ru",
+   "name": "Домен и хостинг",
+   "aliases": [
+    "рег ру",
+    "reg.ru",
+    "хостинг",
+    "домен",
+    "beget",
+    "timeweb"
+   ],
+   "category": "Работа и софт",
+   "color": "3A3A3A",
+   "monogram": "www",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Домен, год",
+     "price": "990",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    },
+    {
+     "name": "Хостинг",
+     "price": "300",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "skillbox",
+   "name": "Skillbox",
+   "aliases": [
+    "скилбокс"
+   ],
+   "category": "Обучение",
+   "color": "000000",
+   "monogram": "Sb",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Рассрочка",
+     "price": "4900",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "yandex-practicum",
+   "name": "Практикум",
+   "aliases": [
+    "яндекс практикум"
+   ],
+   "category": "Обучение",
+   "color": "FC3F1D",
+   "monogram": "Пр",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Рассрочка",
+     "price": "8000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "skyeng",
+   "name": "Skyeng",
+   "aliases": [
+    "скайенг",
+    "английский"
+   ],
+   "category": "Обучение",
+   "color": "2C5BFF",
+   "monogram": "Sk",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Уроки",
+     "price": "6000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "duolingo",
+   "name": "Duolingo",
+   "aliases": [
+    "дуолинго"
+   ],
+   "category": "Обучение",
+   "color": "58CC02",
+   "monogram": "Du",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Super",
+     "price": "12.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Super, год",
+     "price": "59.99",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "coursera",
+   "name": "Coursera Plus",
+   "aliases": [
+    "курсера"
+   ],
+   "category": "Обучение",
+   "color": "0056D2",
+   "monogram": "Co",
+   "cancelURL": "https://www.coursera.org/account-settings",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Plus",
+     "price": "59",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "arzamas",
+   "name": "Арзамас",
+   "aliases": [
+    "arzamas"
+   ],
+   "category": "Обучение",
+   "color": "000000",
+   "monogram": "Ар",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "349",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "postnauka",
+   "name": "Постнаука",
+   "aliases": [
+    "постнаука"
+   ],
+   "category": "Обучение",
+   "color": "000000",
+   "monogram": "ПН",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "299",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "brilliant",
+   "name": "Brilliant",
+   "aliases": [
+    "брильянт"
+   ],
+   "category": "Обучение",
+   "color": "FFC600",
+   "monogram": "Br",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premium",
+     "price": "24.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "medium",
+   "name": "Medium",
+   "aliases": [
+    "медиум"
+   ],
+   "category": "Обучение",
+   "color": "000000",
+   "monogram": "Md",
+   "cancelURL": "https://medium.com/me/settings/membership",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Member",
+     "price": "5",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "ps-plus",
+   "name": "PlayStation Plus",
+   "aliases": [
+    "пс плюс",
+    "ps plus",
+    "playstation"
+   ],
+   "category": "Развлечения",
+   "color": "003791",
+   "monogram": "PS",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Essential",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Extra",
+     "price": "14.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Deluxe, год",
+     "price": "159.99",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "xbox-gamepass",
+   "name": "Xbox Game Pass",
+   "aliases": [
+    "гейм пасс",
+    "xbox",
+    "иксбокс"
+   ],
+   "category": "Развлечения",
+   "color": "107C10",
+   "monogram": "GP",
+   "cancelURL": "https://account.microsoft.com/services",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Core",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Ultimate",
+     "price": "19.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "nintendo-online",
+   "name": "Nintendo Switch Online",
+   "aliases": [
+    "нинтендо"
+   ],
+   "category": "Развлечения",
+   "color": "E60012",
+   "monogram": "NS",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "19.99",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "apple-arcade",
+   "name": "Apple Arcade",
+   "aliases": [
+    "эпл аркейд"
+   ],
+   "category": "Развлечения",
+   "color": "FF3B30",
+   "monogram": "AA",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Arcade",
+     "price": "6.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "ea-play",
+   "name": "EA Play",
+   "aliases": [
+    "еа плей"
+   ],
+   "category": "Развлечения",
+   "color": "FF4747",
+   "monogram": "EA",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "EA Play",
+     "price": "5.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "geforce-now",
+   "name": "GeForce NOW",
+   "aliases": [
+    "джифорс нау",
+    "облачный гейминг"
+   ],
+   "category": "Развлечения",
+   "color": "76B900",
+   "monogram": "GF",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Priority",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "vk-play",
+   "name": "VK Play Облако",
+   "aliases": [
+    "вк плей"
+   ],
+   "category": "Развлечения",
+   "color": "0077FF",
+   "monogram": "VP",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Облако",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "boosty",
+   "name": "Boosty",
+   "aliases": [
+    "бусти"
+   ],
+   "category": "Развлечения",
+   "color": "F15F2C",
+   "monogram": "Bo",
+   "cancelURL": "https://boosty.to/app/settings/subscriptions",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "300",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "patreon",
+   "name": "Patreon",
+   "aliases": [
+    "патреон"
+   ],
+   "category": "Развлечения",
+   "color": "FF424D",
+   "monogram": "Pa",
+   "cancelURL": "https://www.patreon.com/settings/memberships",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "5",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "fitness-club",
+   "name": "Фитнес-клуб",
+   "aliases": [
+    "фитнес",
+    "спортзал",
+    "зал",
+    "world class",
+    "x-fit",
+    "ddx"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "FF6B35",
+   "monogram": "Фт",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "3500",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    },
+    {
+     "name": "Год",
+     "price": "30000",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "strava",
+   "name": "Strava",
+   "aliases": [
+    "страва"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "FC4C02",
+   "monogram": "Sv",
+   "cancelURL": "https://www.strava.com/account",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Subscription",
+     "price": "11.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "calm",
+   "name": "Calm",
+   "aliases": [
+    "калм",
+    "медитация"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "4A90E2",
+   "monogram": "Ca",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "69.99",
+     "currency": "USD",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "headspace",
+   "name": "Headspace",
+   "aliases": [
+    "хедспейс"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "FF7E1D",
+   "monogram": "Hs",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "12.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "flo",
+   "name": "Flo",
+   "aliases": [
+    "фло"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "FF6F91",
+   "monogram": "Fl",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Premium",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "apple-fitness",
+   "name": "Apple Fitness+",
+   "aliases": [
+    "эпл фитнес"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "A3F84F",
+   "monogram": "F+",
+   "cancelURL": "https://apps.apple.com/account/subscriptions",
+   "kind": "",
+   "channel": "appstore",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Fitness+",
+     "price": "9.99",
+     "currency": "USD",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "sberzdorovie",
+   "name": "СберЗдоровье",
+   "aliases": [
+    "сбер здоровье",
+    "телемедицина"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "21A038",
+   "monogram": "СЗ",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "399",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "dms",
+   "name": "ДМС",
+   "aliases": [
+    "страховка здоровья",
+    "дмс"
+   ],
+   "category": "Здоровье и спорт",
+   "color": "2E86DE",
+   "monogram": "ДМС",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "40000",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "rent",
+   "name": "Аренда",
+   "aliases": [
+    "квартира",
+    "аренда квартиры"
+   ],
+   "category": "Дом и ЖКХ",
+   "color": "8D6E63",
+   "monogram": "Ар",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "45000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "mortgage",
+   "name": "Ипотека",
+   "aliases": [
+    "ипотека",
+    "кредит"
+   ],
+   "category": "Финансы",
+   "color": "5D4037",
+   "monogram": "Ип",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "bank",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Платёж",
+     "price": "40000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "loan",
+   "name": "Кредит",
+   "aliases": [
+    "кредит",
+    "рассрочка",
+    "займ"
+   ],
+   "category": "Финансы",
+   "color": "6D4C41",
+   "monogram": "Кр",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "bank",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Платёж",
+     "price": "10000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "utilities",
+   "name": "ЖКУ",
+   "aliases": [
+    "коммуналка",
+    "жкх",
+    "квартплата"
+   ],
+   "category": "Дом и ЖКХ",
+   "color": "795548",
+   "monogram": "ЖКУ",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "6000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "electricity",
+   "name": "Электричество",
+   "aliases": [
+    "свет",
+    "мосэнергосбыт"
+   ],
+   "category": "Дом и ЖКХ",
+   "color": "FBC02D",
+   "monogram": "⚡",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "1500",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "security",
+   "name": "Охрана и домофон",
+   "aliases": [
+    "домофон",
+    "охрана"
+   ],
+   "category": "Дом и ЖКХ",
+   "color": "607D8B",
+   "monogram": "Дф",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "100",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "osago",
+   "name": "ОСАГО",
+   "aliases": [
+    "осаго",
+    "страховка машины"
+   ],
+   "category": "Финансы",
+   "color": "1565C0",
+   "monogram": "ОС",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "8000",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kasko",
+   "name": "КАСКО",
+   "aliases": [
+    "каско"
+   ],
+   "category": "Финансы",
+   "color": "0D47A1",
+   "monogram": "КС",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "60000",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "parking",
+   "name": "Парковка",
+   "aliases": [
+    "паркинг",
+    "машиноместо"
+   ],
+   "category": "Дом и ЖКХ",
+   "color": "455A64",
+   "monogram": "P",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "7000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "carsharing",
+   "name": "Каршеринг",
+   "aliases": [
+    "делимобиль",
+    "ситидрайв",
+    "белка"
+   ],
+   "category": "Другое",
+   "color": "00B0FF",
+   "monogram": "Кш",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "site",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Подписка",
+     "price": "499",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "troika",
+   "name": "Транспорт",
+   "aliases": [
+    "тройка",
+    "проездной",
+    "метро"
+   ],
+   "category": "Другое",
+   "color": "E53935",
+   "monogram": "Тр",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Проездной",
+     "price": "3000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "kindergarten",
+   "name": "Детский сад",
+   "aliases": [
+    "садик",
+    "детсад"
+   ],
+   "category": "Обучение",
+   "color": "FFB300",
+   "monogram": "Дс",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "15000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "sections",
+   "name": "Кружки и секции",
+   "aliases": [
+    "секция",
+    "кружок",
+    "репетитор"
+   ],
+   "category": "Обучение",
+   "color": "7CB342",
+   "monogram": "Кс",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "6000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "pet",
+   "name": "Питомец",
+   "aliases": [
+    "корм",
+    "ветеринар",
+    "кот",
+    "собака"
+   ],
+   "category": "Другое",
+   "color": "A1887F",
+   "monogram": "Пт",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "3000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "charity",
+   "name": "Благотворительность",
+   "aliases": [
+    "пожертвование",
+    "донат",
+    "фонд"
+   ],
+   "category": "Другое",
+   "color": "E91E63",
+   "monogram": "♥",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "500",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "cleaning",
+   "name": "Уборка",
+   "aliases": [
+    "клининг",
+    "уборка"
+   ],
+   "category": "Дом и ЖКХ",
+   "color": "26A69A",
+   "monogram": "Уб",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Месяц",
+     "price": "8000",
+     "currency": "RUB",
+     "unit": "month",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "insurance-home",
+   "name": "Страхование квартиры",
+   "aliases": [
+    "страховка квартиры"
+   ],
+   "category": "Финансы",
+   "color": "1976D2",
+   "monogram": "СК",
+   "cancelURL": "",
+   "kind": "",
+   "channel": "other",
+   "includes": [],
+   "plans": [
+    {
+     "name": "Год",
+     "price": "3000",
+     "currency": "RUB",
+     "unit": "year",
+     "count": 1
+    }
+   ]
+  }
+ ],
+ "deals": []
+}
